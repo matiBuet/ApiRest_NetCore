@@ -1,0 +1,12 @@
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaDatos\bin\Debug\net5.0\DAL.deps.json
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaDatos\bin\Debug\net5.0\DAL.dll
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaDatos\bin\Debug\net5.0\ref\DAL.dll
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaDatos\bin\Debug\net5.0\DAL.pdb
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaDatos\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaDatos\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaDatos\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaDatos\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaDatos\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaDatos\obj\Debug\net5.0\DAL.dll
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaDatos\obj\Debug\net5.0\ref\DAL.dll
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaDatos\obj\Debug\net5.0\DAL.pdb

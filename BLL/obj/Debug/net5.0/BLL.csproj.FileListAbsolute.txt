@@ -1,0 +1,15 @@
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaNegocio\bin\Debug\net5.0\BLL.deps.json
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaNegocio\bin\Debug\net5.0\BLL.dll
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaNegocio\bin\Debug\net5.0\ref\BLL.dll
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaNegocio\bin\Debug\net5.0\BLL.pdb
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaNegocio\bin\Debug\net5.0\Entities.dll
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaNegocio\bin\Debug\net5.0\Entities.pdb
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaNegocio\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaNegocio\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaNegocio\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaNegocio\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaNegocio\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaNegocio\obj\Debug\net5.0\BLL.csproj.CopyComplete
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaNegocio\obj\Debug\net5.0\BLL.dll
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaNegocio\obj\Debug\net5.0\ref\BLL.dll
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\capaNegocio\obj\Debug\net5.0\BLL.pdb
