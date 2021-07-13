@@ -15,4 +15,12 @@ D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\DAL\obj\Debug\netcoreapp
 D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
 D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\DAL\obj\Debug\netcoreapp3.1\DAL.dll
 D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\DAL\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\DAL\bin\Debug\netcoreapp3.1\Entities.pdb
 D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\DAL\obj\Debug\netcoreapp3.1\DAL.Properties.Resources.resources
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.GenerateResource.cache
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache

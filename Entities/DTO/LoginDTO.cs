@@ -8,9 +8,9 @@ namespace Entities.DTO
     public class LoginDTO
     {
         [Required]
-        public string usuario { get; set; }
+        public string usuario { get; set; } = "demo";
         [Required]
         [DataType(DataType.Password)]
-        public string pass { get; set; }
+        public string pass { get; set; } = "123456";
     }
 }

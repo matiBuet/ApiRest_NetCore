@@ -1,24 +1,34 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using AutoMapper;
 using BLL.IBLL;
 using Entities.DTO;
+using Entities.Model;
+using Entities.Mapping;
+using DAL;
 
 namespace BLL.BLL
 {
-    class AccountBLL : IAccountBLL
+    public class AccountBLL : IAccountBLL
     {
+        private readonly IMapper _mapper;
+        public AccountBLL(IMapper mapper)
+        {
+            _mapper = mapper;
+        }
         void IAccountBLL.Create(AccountDTO account)
         {
-            throw new NotImplementedException();
+            var convert = _mapper.Map<Account>(account);
+            convert.eliminado = false;
+            convert.fechaAlta = DateTime.Now;
+            convert.usuarioAlta = account.
+
+           
+            new AccountDAL().Create(convert);
         }
 
         void IAccountBLL.Delete(long id)
-        {
-            throw new NotImplementedException();
-        }
-
-        void IAccountBLL.Login(string usuario, string pass)
         {
             throw new NotImplementedException();
         }

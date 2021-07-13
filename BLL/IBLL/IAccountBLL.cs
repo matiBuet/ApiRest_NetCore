@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 using Entities.DTO;
 namespace BLL.IBLL
 {
-    interface IAccountBLL
+    public interface IAccountBLL
     {
-        public void Login(string usuario, string pass);
         public void Create(AccountDTO account);
         public void Delete(long id);
         public void Update(long id, AccountDTO account);

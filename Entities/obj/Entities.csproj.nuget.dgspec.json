@@ -43,9 +43,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
+            "AutoMapper": {
               "target": "Package",
-              "version": "[3.1.16, )"
+              "version": "[10.1.1, )"
             }
           },
           "imports": [

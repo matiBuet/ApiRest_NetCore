@@ -15,7 +15,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using BLL.Servicios;
-using Microsoft.EntityFrameworkCore;
+using BLL.IBLL;
+using BLL.BLL;
+using AutoMapper;
+using Entities.Mapping;
 
 namespace RestApi_NetCore_Example
 {
@@ -61,6 +64,16 @@ namespace RestApi_NetCore_Example
                 };
             });
 
+            services.AddScoped<IAccountBLL, AccountBLL>();
+
+            var mapperConfig = new MapperConfiguration(n =>
+            {
+                n.AddProfile(new MappingProfile());
+            });
+
+            IMapper mapper = mapperConfig.CreateMapper();
+            services.AddSingleton(mapper);
+
             services.AddAuthorization();
             services.AddSingleton<IJwtAuthentication>(new JwtAuthentication(key));
             services.AddSwaggerGen(c =>
@@ -88,6 +101,7 @@ namespace RestApi_NetCore_Example
                         securityScheme, Array.Empty<string>() }
                 });
             });
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
