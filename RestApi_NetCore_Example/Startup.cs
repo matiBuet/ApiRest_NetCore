@@ -14,11 +14,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using BLL.Servicios;
+using BLL.Servicios.JWT;
 using BLL.IBLL;
 using BLL.BLL;
 using AutoMapper;
 using Entities.Mapping;
+using BLL.Servicios.Security;
 
 namespace RestApi_NetCore_Example
 {
@@ -65,6 +66,7 @@ namespace RestApi_NetCore_Example
             });
 
             services.AddScoped<IAccountBLL, AccountBLL>();
+            services.AddScoped<ISecurity,Security>();
 
             var mapperConfig = new MapperConfiguration(n =>
             {
@@ -75,7 +77,7 @@ namespace RestApi_NetCore_Example
             services.AddSingleton(mapper);
 
             services.AddAuthorization();
-            services.AddSingleton<IJwtAuthentication>(new JwtAuthentication(key));
+            services.AddSingleton<IJwtAuthentication>(new JwtAuthentication(key, new AccountBLL(mapper,new Security())));
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "RestApi_NetCore_Example", Version = "v1" });

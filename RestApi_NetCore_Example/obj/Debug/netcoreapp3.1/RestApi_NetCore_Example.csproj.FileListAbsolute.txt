@@ -2,7 +2,6 @@ D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\RestApi_NetCore_Example\
 D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\RestApi_NetCore_Example\obj\Debug\netcoreapp3.1\RestApi_NetCore_Example.AssemblyInfoInputs.cache
 D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\RestApi_NetCore_Example\obj\Debug\netcoreapp3.1\RestApi_NetCore_Example.AssemblyInfo.cs
 D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\RestApi_NetCore_Example\obj\Debug\netcoreapp3.1\RestApi_NetCore_Example.csproj.CoreCompileInputs.cache
-D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\RestApi_NetCore_Example\obj\Debug\netcoreapp3.1\RestApi_NetCore_Example.MvcApplicationPartsAssemblyInfo.cs
 D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\RestApi_NetCore_Example\obj\Debug\netcoreapp3.1\RestApi_NetCore_Example.MvcApplicationPartsAssemblyInfo.cache
 D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\RestApi_NetCore_Example\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\RestApi_NetCore_Example\bin\Debug\netcoreapp3.1\appsettings.json
@@ -72,3 +71,4 @@ D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\RestApi_NetCore_Example\
 D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\RestApi_NetCore_Example\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\RestApi_NetCore_Example\bin\Debug\netcoreapp3.1\DAL.dll
 D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\RestApi_NetCore_Example\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\Desarrollos\Back_End_netCore\RestApi_NetCore_Example\RestApi_NetCore_Example\obj\Debug\netcoreapp3.1\RestApi_NetCore_Example.MvcApplicationPartsAssemblyInfo.cs

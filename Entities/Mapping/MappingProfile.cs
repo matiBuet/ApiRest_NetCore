@@ -14,6 +14,8 @@ namespace Entities.Mapping
         {
             CreateMap<AccountDTO, Account>();
             CreateMap<Account, AccountDTO>();
+            CreateMap<AccountDataDTO, Account>();
+            CreateMap<Account, AccountDataDTO>();
         }
     }
 }

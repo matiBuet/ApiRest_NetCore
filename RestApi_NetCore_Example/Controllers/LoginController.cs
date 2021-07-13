@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Entities.DTO;
 using Microsoft.Extensions.Configuration;
-using BLL.Servicios;
+using BLL.Servicios.JWT;
 
 namespace RestApi_NetCore_Example.Controllers
 {
