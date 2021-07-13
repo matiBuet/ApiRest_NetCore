@@ -17,14 +17,12 @@ namespace BLL.BLL
         {
             _mapper = mapper;
         }
-        void IAccountBLL.Create(AccountDTO account)
+        void IAccountBLL.Create(AccountDTO account, string user)
         {
             var convert = _mapper.Map<Account>(account);
             convert.eliminado = false;
             convert.fechaAlta = DateTime.Now;
-            convert.usuarioAlta = account.
-
-           
+            convert.usuarioAlta = user;
             new AccountDAL().Create(convert);
         }
 

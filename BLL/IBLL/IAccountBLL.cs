@@ -8,7 +8,7 @@ namespace BLL.IBLL
 {
     public interface IAccountBLL
     {
-        public void Create(AccountDTO account);
+        public void Create(AccountDTO account, string user);
         public void Delete(long id);
         public void Update(long id, AccountDTO account);
         public void Select();

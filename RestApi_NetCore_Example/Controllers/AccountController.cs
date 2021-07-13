@@ -18,6 +18,7 @@ namespace RestApi_NetCore_Example.Controllers
     public class AccountController : ControllerBase
     {
         private readonly IAccountBLL _accountBLL;
+        private readonly string _userName;
         public AccountController(IAccountBLL accountBLL)
         {
             _accountBLL = accountBLL;
@@ -29,7 +30,7 @@ namespace RestApi_NetCore_Example.Controllers
         {
             if (ModelState.IsValid)
             {
-                _accountBLL.Create(account);
+                _accountBLL.Create(account, User.Identity.Name);
                 return Ok("OK");
             }
             else
