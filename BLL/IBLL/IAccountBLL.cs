@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Entities.Model;
 using Entities.DTO;
+
 namespace BLL.IBLL
 {
     public interface IAccountBLL
